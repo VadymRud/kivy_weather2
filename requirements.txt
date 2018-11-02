@@ -1,0 +1,6 @@
+kivy
+pyowm
+plyer
+arrow
+https://github.com/HeaTTheatR/KivyMD.git
+
